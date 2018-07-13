@@ -1009,6 +1009,8 @@ body{
 	font-family: 'Oswald', sans-serif;
 
 	font-weight:300;
+	
+	color: #f90606;
 
 }
 
@@ -1016,7 +1018,7 @@ body{
 
 	font-size:34px;
 
-	color: #bd0008;
+	color: #0a11fb;
 
 	font-family: 'Oswald', sans-serif;
 
@@ -1122,7 +1124,7 @@ body{
 
 	padding:16px 6px;
 
-	border:1px solid #7e8f9e;
+	border:4px solid #1a464c;
 
 }
 
@@ -1222,9 +1224,9 @@ body{
 
 	height:auto;
 
-	background:#f6f6f6;
+	background:#ffffff;
 
-	margin:0 0 15px;
+	margin:0 0 7px;
 
 }
 
