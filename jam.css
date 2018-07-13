@@ -1018,7 +1018,7 @@ body{
 
 	font-size:34px;
 
-	color:#b0b0b0;
+	color:#0a4ada;
 
 	font-family: 'Oswald', sans-serif;
 
@@ -2727,6 +2727,7 @@ video.responsive-video {
 .price .sale-price{
 
 	font-size:45px;
+	color: #bd0008;
 
 }
 
